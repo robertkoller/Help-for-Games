@@ -93,4 +93,5 @@ while x < 3 and y < 3:
                     satchcount = satcount - 1
                     fullsatch = fullsatch + 1
                 
+#this is game where you survive 20-30 days in wilderness
 print("you have died")
